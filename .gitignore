@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large archive bundles
+*.zip
+
+# Local database and submissions data
+*.sqlite
+*.db
+forms_submissions.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
