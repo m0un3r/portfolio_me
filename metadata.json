@@ -1,0 +1,8 @@
+{
+  "name": "Zolt Design Engineer Portfolio",
+  "description": "Portfolio for design engineers featuring CMS case studies, interactive project showcases, and animated sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
